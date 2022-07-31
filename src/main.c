@@ -571,7 +571,7 @@ void main(void)
 
 	LOG_INF("The MQTT simple sample started");
 
-	LOG_INF("Good luck for you, Noy Luo");
+	LOG_INF("Good luck with you, Noy Luo");
 
 
 #if defined(CONFIG_MQTT_LIB_TLS)
