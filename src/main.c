@@ -570,7 +570,7 @@ void main(void)
 	uint32_t connect_attempt = 0;
 
 	LOG_INF("The MQTT simple sample started");
-
+	LOG_INF("Good luck for you, Noy Luo");
 #if defined(CONFIG_MQTT_LIB_TLS)
 	err = certificates_provision();
 	if (err != 0) {
