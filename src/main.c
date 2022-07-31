@@ -570,6 +570,7 @@ void main(void)
 	uint32_t connect_attempt = 0;
 
 	LOG_INF("The MQTT simple sample started");
+	LOG_INF("Good luck with you in Augest , Noy Luo");
 
 	LOG_INF("Good luck with you, Noy Luo");
 
