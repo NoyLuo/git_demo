@@ -573,6 +573,7 @@ void main(void)
 	LOG_INF("Good luck with you in Augest , Noy Luo");
 	LOG_INF("August is a luck month for you, Noy");
 	LOG_INF("Good luck with you, Noy Luo");
+	LOG_INF("What a lucky day, Noy Luo");
 
 
 #if defined(CONFIG_MQTT_LIB_TLS)
